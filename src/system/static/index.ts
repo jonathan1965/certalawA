@@ -41,7 +41,7 @@ Internationally, Ms. Florida is also well exposed where she worked as an Appeals
       firstName: 'Jean Maurice',
       lastName: 'Mugabonabandi',
       title:
-        'Managing Partner / Head of Labour, Corporate and Commercial Transactions',
+        'Managing Partner / Head of Labour, Corporate and Commercial Transactions.',
       desc: 'Jean Maurice is a Partner at CERTA Law and Head of the Labour, Corporate and Commercial Transactions wing of the Firm. He is a versatile litigator, Arbitrator and Mediator. As a licensed arbitrator, he sits on various panels of Kigali International Arbitration Center through which he has rendered high level arbitration and mediation services to international financial institutions, Government Institutions, Non-Governmental Organizations, multinational corporations, and home companies. He is also a member of the Rwandan Bar Association, East African Law Society and Chartered Institute of Arbitrators. Due to his outstanding mediation skill base, Maurice is regularly appointed as a Court Mediator. Prior to joining CERTA, he worked with government institutions such as the Ministry of Public Service and Labour charged with Public Service inspection and Litigation, Penal Reform International, an NGO that works on penal and criminal justice reform worldwide among others. From this background, he has acquired immense experience in legal drafting and reviewing, negotiation and legal compliance. He holds an LLB from the National University of Rwanda and a Postgraduate Diploma in Legal Practice from the Rwanda Institute of Legal Practice and Development. He is a native speaker of Kinyarwanda, and he is fluent in French and English.',
     },
     {
