@@ -662,6 +662,11 @@
   dependencies:
     tslib "^2.4.0"
 
+"@types/cookie@^0.6.0":
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/@types/cookie/-/cookie-0.6.0.tgz#eac397f28bf1d6ae0ae081363eca2f425bedf0d5"
+  integrity sha512-4Kh9a6B2bQciAhf7FSuMRRkUWecJgJu9nPnx3yzpsfXX/c50REIqpHY4C82bXP90qrLtXtkDxTZosYO3UpOwlA==
+
 "@types/hoist-non-react-statics@^3.3.1":
   version "3.3.6"
   resolved "https://registry.yarnpkg.com/@types/hoist-non-react-statics/-/hoist-non-react-statics-3.3.6.tgz#6bba74383cdab98e8db4e20ce5b4a6b98caed010"
@@ -1207,6 +1212,11 @@ convert-source-map@^1.5.0:
   version "1.9.0"
   resolved "https://registry.yarnpkg.com/convert-source-map/-/convert-source-map-1.9.0.tgz#7faae62353fb4213366d0ca98358d22e8368b05f"
   integrity sha512-ASFBup0Mz1uyiIjANan1jzLQami9z1PoYSZCiiYW2FczPbenXc45FZdBZLzOT+r6+iciuEModtmCti+hjaAk0A==
+
+cookie@^1.0.1:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/cookie/-/cookie-1.0.2.tgz#27360701532116bd3f1f9416929d176afe1e4610"
+  integrity sha512-9Kr/j4O16ISv8zBBhJoi4bXOYNTkFLOqSL3UDB0njXxCXNezjeyVrJyGOWtgfs/q2km1gwBcfH8q1yEGoMYunA==
 
 cosmiconfig@^7.0.0:
   version "7.1.0"
@@ -3157,6 +3167,23 @@ react-remove-scroll@^2.6.2:
     use-callback-ref "^1.3.3"
     use-sidecar "^1.1.3"
 
+react-router-dom@^7.1.3:
+  version "7.1.3"
+  resolved "https://registry.yarnpkg.com/react-router-dom/-/react-router-dom-7.1.3.tgz#2788f7c670aa50275e16bb033b9b04b01a45b6dc"
+  integrity sha512-qQGTE+77hleBzv9SIUIkGRvuFBQGagW+TQKy53UTZAO/3+YFNBYvRsNIZ1GT17yHbc63FylMOdS+m3oUriF1GA==
+  dependencies:
+    react-router "7.1.3"
+
+react-router@7.1.3:
+  version "7.1.3"
+  resolved "https://registry.yarnpkg.com/react-router/-/react-router-7.1.3.tgz#6c15c28838b799cb3058943e8e8015dbd6c16c7b"
+  integrity sha512-EezYymLY6Guk/zLQ2vRA8WvdUhWFEj5fcE3RfWihhxXBW7+cd1LsIiA3lmx+KCmneAGQuyBv820o44L2+TtkSA==
+  dependencies:
+    "@types/cookie" "^0.6.0"
+    cookie "^1.0.1"
+    set-cookie-parser "^2.6.0"
+    turbo-stream "2.4.0"
+
 react-share@^4.4.0:
   version "4.4.1"
   resolved "https://registry.yarnpkg.com/react-share/-/react-share-4.4.1.tgz#4bfb0b512e26afedfea2fb66eb13c95c28fb216a"
@@ -3361,6 +3388,11 @@ semver@^7.3.5, semver@^7.3.7:
   resolved "https://registry.yarnpkg.com/semver/-/semver-7.6.3.tgz#980f7b5550bc175fb4dc09403085627f9eb33143"
   integrity sha512-oVekP1cKtI+CTDvHWYFUcMtsK/00wmAEfyqKfNdARm8u1wNVhSgaX7A8d4UuIlUI5e84iEwOhs7ZPYRmzU9U6A==
 
+set-cookie-parser@^2.6.0:
+  version "2.7.1"
+  resolved "https://registry.yarnpkg.com/set-cookie-parser/-/set-cookie-parser-2.7.1.tgz#3016f150072202dfbe90fadee053573cc89d2943"
+  integrity sha512-IOc8uWeOZgnb3ptbCURJWNjWUPcO3ZnTTdzsurqERrP6nPyv+paC55vJM0LpOlT2ne+Ix+9+CRG1MNLlyZ4GjQ==
+
 set-function-length@^1.2.2:
   version "1.2.2"
   resolved "https://registry.yarnpkg.com/set-function-length/-/set-function-length-1.2.2.tgz#aac72314198eaed975cf77b2c3b6b880695e5449"
@@ -3518,6 +3550,7 @@ source-map@^0.5.7:
   integrity sha512-LbrmJOMUSdEVxIKvdcJzQC+nQhe8FUZQTXQy6+I75skNgn3OoQ0DZA8YnFa7gp8tqtL3KPf1kmo0R5DoApeSGQ==
 
 "string-width-cjs@npm:string-width@^4.2.0", string-width@^4.1.0:
+  name string-width-cjs
   version "4.2.3"
   resolved "https://registry.yarnpkg.com/string-width/-/string-width-4.2.3.tgz#269c7117d27b05ad2e536830a8ec895ef9c6d010"
   integrity sha512-wKyQRQpjJ0sIp62ErSZdGsjMJWsap5oRNihHhu6G7JVO/9jIB6UyevL+tXuOqrng8j/cxKTWyWUwvSTriiZz/g==
@@ -3792,6 +3825,11 @@ tunnel-agent@^0.6.0:
   integrity sha512-McnNiV1l8RYeY8tBgEpuodCC1mLUdbSN+CYBL7kJsJNInOP8UjDDEwdk6Mw60vdLLrr5NHKZhMAOSrR2NZuQ+w==
   dependencies:
     safe-buffer "^5.0.1"
+
+turbo-stream@2.4.0:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/turbo-stream/-/turbo-stream-2.4.0.tgz#1e4fca6725e90fa14ac4adb782f2d3759a5695f0"
+  integrity sha512-FHncC10WpBd2eOmGwpmQsWLDoK4cqsA/UT/GqNoaKOQnT8uzhtCbg3EoUDMvqpOSAI0S26mr0rkjzbOO6S3v1g==
 
 type-check@^0.4.0, type-check@~0.4.0:
   version "0.4.0"
