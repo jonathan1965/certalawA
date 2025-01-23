@@ -1,6 +1,7 @@
 import React from 'react';
 import Image from 'next/image';
 import { useRouter } from 'next/router';
+import { ArrowRight } from 'lucide-react';
 
 const InsightItem = () => {
   const { push } = useRouter();
@@ -35,9 +36,9 @@ const InsightItem = () => {
             onClick={() => {
               push('/insights/1');
             }}
-            className="mt-4 text-sm font-semibold text-primary"
+            className="mt-4 text-sm font-semibold text-primary flex items-end"
           >
-            Read more.
+            Read more <ArrowRight className="ml-1 h-4 w-4" />
           </button>
         </div>
       </div>
