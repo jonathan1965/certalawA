@@ -87,19 +87,19 @@ Bosco is a passionate and committed advocate and a member of the Rwanda Bar Asso
 He is a native speaker of Kinyarwanda and has excellent command of English language. Bosco has constantly engaged in activities that sparks more legal light, knowledge and expertise. 
 `,
     },
-  //   {
-  //     image: '/assets/images/staff/Chris.jpg',
-  //     firstName: 'Chris',
-  //     lastName: 'Ainematsiko',
-  //     title:
-  //       'Associate / In-charge of Legal Compliance & Due Diligence',
-  //     desc: `Me. Chris AINEMATSIKO graduated from the University of Kigali with a Bachelor of Laws degree in 2019. He also possesses a Post Graduate Diploma in Legal Practice from the Institute of Legal Practice and Development and is a member of the Chartered Institute of Arbitrators.
-  //     He joined the Rwanda Bar Association and the East African Law Society in September of 2021 and has significant experience as a litigation Attorney. He handles the Certa Law’s Case Management and transaction operations through liaising with institutions such as courts of law and the National Public Prosecution Authority.
-  //     Chris is an integral member of the Certa Law Chambers Dispute Resolution team and is passionate about Intellectual property, General Commercial Law and Contract Law matters. His focus is within the corporate governance practice area where he deals with due diligence matters, registration of companies, NGO’s and INGO’s as well as intellectual property.
-  //     At undergraduate, Chris represented Rwanda in different academic competitions. Among them; the 2018 International Humanitarian Law Moot Court and the 2018 Peace Regional Moot Court on humanitarian law both held in Kigali. He has undertaken internships with the Commercial Court in Kigali and the Rwanda Revenue Authority.
-  //     He is a native speaker of Kinyarwanda and has excellent command of English.
-  // `,
-  //   },
+    //   {
+    //     image: '/assets/images/staff/Chris.jpg',
+    //     firstName: 'Chris',
+    //     lastName: 'Ainematsiko',
+    //     title:
+    //       'Associate / In-charge of Legal Compliance & Due Diligence',
+    //     desc: `Me. Chris AINEMATSIKO graduated from the University of Kigali with a Bachelor of Laws degree in 2019. He also possesses a Post Graduate Diploma in Legal Practice from the Institute of Legal Practice and Development and is a member of the Chartered Institute of Arbitrators.
+    //     He joined the Rwanda Bar Association and the East African Law Society in September of 2021 and has significant experience as a litigation Attorney. He handles the Certa Law’s Case Management and transaction operations through liaising with institutions such as courts of law and the National Public Prosecution Authority.
+    //     Chris is an integral member of the Certa Law Chambers Dispute Resolution team and is passionate about Intellectual property, General Commercial Law and Contract Law matters. His focus is within the corporate governance practice area where he deals with due diligence matters, registration of companies, NGO’s and INGO’s as well as intellectual property.
+    //     At undergraduate, Chris represented Rwanda in different academic competitions. Among them; the 2018 International Humanitarian Law Moot Court and the 2018 Peace Regional Moot Court on humanitarian law both held in Kigali. He has undertaken internships with the Commercial Court in Kigali and the Rwanda Revenue Authority.
+    //     He is a native speaker of Kinyarwanda and has excellent command of English.
+    // `,
+    //   },
 
     {
       image: '/assets/images/staff/Patricia.jpg',
@@ -114,15 +114,15 @@ Patricia holds a Bachelor's degree in Law from the University of Rwanda and a po
 `,
     },
 
-//     {
-//       image: '/assets/images/staff/Denise.jpg',
-//       firstName: 'Denise',
-//       lastName: 'Isimbi',
-//       title: 'Junior Associate',
-//       desc: `Denise Isimbi is a Junior Associate at CERTA Law. She graduated top of her class
-// and holds a Magna Cum Laude LLB from Kigali Independent of University, ULK. She is passionate about Alternative Dispute Resolution and has interned at the Kigali International Arbitration Centre (KIAC) where she gained extensive experience in both domestic and international Arbitration practices. At CERTA, she handles ADR related cases and acts as a tribunal secretary in arbitration proceedings presided over the Partners. Denise was a legal fellow at the International Lawyers Project (ILP), where she assisted the Director of Partnerships in brokering pro bono legal partnerships for communities, civil society organizations, journalists, and governments in cases involving anti-bribery and corruption, tax reform, media freedom, and environmental and climate change in Sub-Saharan Africa. While at university, she competed in a variety of local and continental tournaments. She won the fifth national International Humanitarian Law Moot Court and went on to represent Rwanda in the 20th All African IHL Moot Court in Naivasha, Kenya. In 2020, she co-won the Africa Legal Innovation Challenge by the Lawyers Hub, Kenya with the most innovative legal solution to challenges associated with virtual courts. She is trained in legal aid provision standards and was coordinator at the university’s legal clinic. Denise is a native speaker of Kinyarwanda and speaks fluent English
-// `,
-//     },
+    //     {
+    //       image: '/assets/images/staff/Denise.jpg',
+    //       firstName: 'Denise',
+    //       lastName: 'Isimbi',
+    //       title: 'Junior Associate',
+    //       desc: `Denise Isimbi is a Junior Associate at CERTA Law. She graduated top of her class
+    // and holds a Magna Cum Laude LLB from Kigali Independent of University, ULK. She is passionate about Alternative Dispute Resolution and has interned at the Kigali International Arbitration Centre (KIAC) where she gained extensive experience in both domestic and international Arbitration practices. At CERTA, she handles ADR related cases and acts as a tribunal secretary in arbitration proceedings presided over the Partners. Denise was a legal fellow at the International Lawyers Project (ILP), where she assisted the Director of Partnerships in brokering pro bono legal partnerships for communities, civil society organizations, journalists, and governments in cases involving anti-bribery and corruption, tax reform, media freedom, and environmental and climate change in Sub-Saharan Africa. While at university, she competed in a variety of local and continental tournaments. She won the fifth national International Humanitarian Law Moot Court and went on to represent Rwanda in the 20th All African IHL Moot Court in Naivasha, Kenya. In 2020, she co-won the Africa Legal Innovation Challenge by the Lawyers Hub, Kenya with the most innovative legal solution to challenges associated with virtual courts. She is trained in legal aid provision standards and was coordinator at the university’s legal clinic. Denise is a native speaker of Kinyarwanda and speaks fluent English
+    // `,
+    //     },
 
     {
       image: '/assets/images/staff/Deogratias.jpg',
@@ -770,6 +770,70 @@ encompassing key industry sectors.
                 breach of fiduciary duty or a claim against executors. Given the novelty of regulation of wills and trusts 
                 in Rwanda, our attorneys have quickly specialized in Wills and Trusts registration, interpretation, professional 
                 execution and the entire administration of estate planning.
+
+                </section>
+
+                <p class="mt-4 text-primary">
+                  Get more information by reaching out to us via email
+                  info@certalaw.rw
+                </p>
+              </div>
+      `,
+    },
+    // new
+    {
+      title: 'CRIMINAL LAW',
+      icon: '/assets/images/icons/criminallaw.png',
+      background: '/assets/images/CRIMINALLAW1.png',
+      path: '/wills-trust',
+      html: `
+      <div class="flex flex-col md:col-span-2">
+                <section>
+               Criminal law is a complex and serious area, as it deals not only with one’s life but also with that of their family and society, both directly and indirectly. At Certa Law, we fully understand that having the right attorney can make a significant difference in the outcome of your case.
+               Our experienced team specializes in all aspects of criminal law, including defense against criminal charges, bail and pretrial release, criminal trials, appeals, and rehabilitation processes.
+               We represent individuals facing charges ranging from misdemeanors to serious felonies. We work swiftly to achieve the best possible outcome for our clients, meticulously preparing each case for trial and leaving no stone unturned in the pursuit of justice.
+
+                </section>
+
+                <p class="mt-4 text-primary">
+                  Get more information by reaching out to us via email
+                  info@certalaw.rw
+                </p>
+              </div>
+      `,
+    },
+    {
+      title: 'CIVIL LAW',
+      icon: '/assets/images/icons/civillaw.png',
+      background: '/assets/images/CIVIL.png',
+      path: '/wills-trust',
+      html: `
+      <div class="flex flex-col md:col-span-2">
+                <section>
+                If your business deals with contracts, property rights, or disputes with other parties, civil law addresses these non-criminal matters. 
+                With extensive knowledge in civil litigation and arbitration,
+                Certa Law will help navigate complex civil issues, protecting your rights and advocating for your interests.
+
+                </section>
+
+                <p class="mt-4 text-primary">
+                  Get more information by reaching out to us via email
+                  info@certalaw.rw
+                </p>
+              </div>
+      `,
+    },
+    {
+      title: 'CIVIL AVIATION',
+      icon: '/assets/images/icons/civialaviation.png',
+      background: '/assets/images/rwandair.png',
+      path: '/wills-trust',
+      html: `
+      <div class="flex flex-col md:col-span-2">
+                <section>
+                We specialize in civil aviation law, providing comprehensive legal representation for various aviation-related matters.
+                From navigating regulations to facilitating aircraft transactions and handling liability claims,
+                our expertise ensures thorough and effective legal support for clients in the aviation industry.
 
                 </section>
 

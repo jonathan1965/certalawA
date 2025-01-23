@@ -4,7 +4,7 @@ import Image from 'next/image';
 interface PracticeAreaCardProps {
   title: string;
   Icon: string;
-  InActiveIcon: string
+  InActiveIcon?: string;
 }
 
 const PracticeAreaCard = ({ title, Icon }: PracticeAreaCardProps) => {

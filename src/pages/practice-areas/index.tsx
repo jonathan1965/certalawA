@@ -42,6 +42,7 @@ const practiceAreas = [
   { title: 'Healthcare Law', Icon: Heart },
   { title: 'Transportation Law', Icon: Car },
   { title: 'Corporate Law', Icon: Building2 },
+
 ];
 import PracticeAreaCard from './PracticeArea';
 
