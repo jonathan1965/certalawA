@@ -6,7 +6,7 @@ const InsightItem = () => {
   const { push } = useRouter();
   return (
     <div className="group relative flex flex-col min-h-[70px]">
-      <div className="bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-shadow duration-300">
+      <div className="bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-shadow duration-300 border border-gray-50">
         {/* Image Container */}
         <div className="relative h-48 w-full overflow-hidden">
           <Image
